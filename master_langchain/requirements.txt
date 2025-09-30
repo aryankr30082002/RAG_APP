@@ -1,8 +1,0 @@
-langchain
-langchain-cohere
-cohere
-pypdf
-chromadb
-streamlit
-python-dotenv
-faiss-cpu
