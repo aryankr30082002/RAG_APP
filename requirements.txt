@@ -6,3 +6,5 @@ chromadb
 streamlit
 python-dotenv
 faiss-cpu
+PyMuPDF
+
