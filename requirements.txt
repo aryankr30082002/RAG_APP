@@ -7,4 +7,5 @@ streamlit
 python-dotenv
 faiss-cpu
 PyMuPDF
+pytesseract
 
